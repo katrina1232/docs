@@ -34,7 +34,7 @@ You can add as many special "recipe ingredients" as you'd like.  Advanced users 
 
 !["install piBakery"](../Images/build-your-rig/pi-step4.png)
 
-Put your microSD card into a reader for your computer.  Once you get your recipe completed in PiBakery, click on the "Write" icon in the upper left of the window. You'll select your SD card's name from the menu that appears and the Operating System will be Raspbian Lite.  Click the Start Write button.  Click yes to the warning about erasing the content of the card to begin the writing process.
+Put your microSD card into a reader for your computer.  Once you get your recipe completed in PiBakery, click on the "Write" icon in the upper right of the window. You'll select your SD card's name from the menu that appears and the Operating System will be Raspbian Lite.  Click the Start Write button.  Click yes to the warning about erasing the content of the card to begin the writing process.
 
 !["install piBakery"](../Images/build-your-rig/pi-step5.png)
 
